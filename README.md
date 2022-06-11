@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/fuzz3d_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuzz3d_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Fabián Bastias Pereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fabián Bastias Pereira" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/Fuzz3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fuzz3d" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC3oEJSnAX9Zlqj19fLN8x9A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fuzz3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
