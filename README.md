@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fuzz3d_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuzz3d_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Fabián Bastias Pereira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fabián Bastias Pereira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fabián-bastias-pereira-49a8a4223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fabián Bastias Pereira" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC3oEJSnAX9Zlqj19fLN8x9A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fuzz3d" height="30" width="40" /></a>
 </p>
 
